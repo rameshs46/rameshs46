@@ -1,5 +1,5 @@
 ### Hi there 👋<h2> I'm Ramesh Sengamalai</h2>
-<p><em>Currently, working as DevOps Engineer/Full Stack Developer at <a href="https://www.global.ntt/">NTT Ltd., Singapore
+<p><em>Currently, working as **DevOps Engineer/Full Stack Developer** at <a href="https://www.global.ntt/">NTT Ltd., Singapore
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
