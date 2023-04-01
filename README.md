@@ -7,7 +7,7 @@
 [![Linkedin:Ramesh Sengamalai](https://img.shields.io/badge/-rsengamalai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rsengamalai/)](https://www.linkedin.com/in/rsengamalai/)
 ![GitHub followers](https://img.shields.io/github/followers/rameshs46?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://rameshs.net/)](http://rameshs.net/)
-![](https://visitor-badge.glitch.me/badge?page_id=rameshs46.visitor-badge)
+
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYWQxMmMzMWY1N2VlYTgzMjBhYzA1MjFjZjNiZGUxMmQ3ZmMwNSZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="230">
 
