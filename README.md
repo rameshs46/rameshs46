@@ -5,7 +5,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/iam_rameshs?label=Follow)](https://twitter.com/intent/follow?screen_name=iam_rameshs)
 [![Linkedin:Ramesh Sengamalai](https://img.shields.io/badge/-rsengamalai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rsengamalai/)](https://www.linkedin.com/in/rsengamalai/)
-![GitHub followers](https://img.shields.io/github/followers/rameshs46?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://rameshs.net/)](http://rameshs.net/)
 
 
