@@ -12,7 +12,8 @@
 <h3> 👨🏻•💻 About Me </h3>
 
 
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYWQxMmMzMWY1N2VlYTgzMjBhYzA1MjFjZjNiZGUxMmQ3ZmMwNSZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="400">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYWQxMmMzMWY1N2VlYTgzMjBhYzA1MjFjZjNiZGUxMmQ3ZmMwNSZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="350">
+
 
 - Expertise in writing Infrastructure As Code using Azure Resource Management, Terraform, and AWS Cloud
 Formation.
