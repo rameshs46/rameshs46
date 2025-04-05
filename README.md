@@ -17,13 +17,14 @@
 
 - Expertise in writing Infrastructure As Code using Azure Resource Management, Terraform, and AWS Cloud
 Formation.
-- Expertise in creating CICD pipelines using Jenkins and Nexus repositories to store build artifacts. 
-- Expertise in SonarQube for checking the code quality. 
-- Expertise in Server configurations tools like Ansible.
-- Expertise in source code management using SCM tools like GitHub and bitbucket.
-- Have experience in Dockerized applications using Docker compose.
-- Expertise in Atlassian tools like Jira, bitbucket, and confluence.
-- Developing Web Applications using Python, Django, REST API, and PostgreSQL.
-- Have familiarity with change management process and part of an Agile scrum team.
+- Expertise in creating CICD pipelines using Jenkins and Nexus repository to store build artifacts, incorporating operational requirements to optimize performance. 
+- Expertise in SonarQube for checking the code quality, debugging, and maintaining compliance with coding standards. 
+- Expertise in Server configuration tools like Ansible.
+- Expertise in source code management using SCM tools like GitHub and Bitbucket, ensuring thorough documentation of user stories.
+- Have experience in Dockized application using Docker compose.
+- Expertise in Atlassian tools like Jira, Bitbucket, and Confluence for ticketing systems and team connection.
+- Developing a Web Application using Python, Django, REST API, and PostgreSQL, with a strong focus on data transformation and flow.
+- Have knowledge in designing and implementing ETL leveraging Azure Data Factory integration with Azure Pipelines, enabling automated and efficient data workflow deployments.
+- Have knowledge in Dell Boom AtomSphere in CICD pipelines and automating the deployment of Boomi Molecules or Atoms for streamlined application integration.
 
 
