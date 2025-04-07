@@ -24,7 +24,5 @@ Formation.
 - Have experience in Dockized application using Docker compose.
 - Expertise in Atlassian tools like Jira, Bitbucket, and Confluence for ticketing systems and team connection.
 - Developing a Web Application using Python, Django, REST API, and PostgreSQL, with a strong focus on data transformation and flow.
-- Have knowledge in designing and implementing ETL leveraging Azure Data Factory integration with Azure Pipelines, enabling automated and efficient data workflow deployments.
-- Have knowledge in Dell Boom AtomSphere in CICD pipelines and automating the deployment of Boomi Molecules or Atoms for streamlined application integration.
 
 
