@@ -1,7 +1,8 @@
 ### Hi there 👋<h2> I'm Ramesh Sengamalai</h2>
+<!--- 
 <p><em>Currently, working as <b>DevOps Engineer/Full Stack Developer</b> at <a href="https://www.global.ntt/">NTT Ltd., Singapore
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+</em></p> -->
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/iam_rameshs?label=Follow)](https://twitter.com/intent/follow?screen_name=iam_rameshs)
 [![Linkedin:Ramesh Sengamalai](https://img.shields.io/badge/-rsengamalai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rsengamalai/)](https://www.linkedin.com/in/rsengamalai/)
