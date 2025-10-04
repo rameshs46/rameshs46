@@ -16,8 +16,6 @@
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYWQxMmMzMWY1N2VlYTgzMjBhYzA1MjFjZjNiZGUxMmQ3ZmMwNSZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="350">
 
 
-- Expertise in writing Infrastructure As Code using Azure Resource Management, Terraform, and AWS Cloud
-Formation.
 - Expertise in creating CICD pipelines using Jenkins and Nexus repository to store build artifacts, incorporating operational requirements to optimize performance. 
 - Expertise in SonarQube for checking the code quality, debugging, and maintaining compliance with coding standards. 
 - Expertise in Server configuration tools like Ansible.
