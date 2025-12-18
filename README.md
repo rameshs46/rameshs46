@@ -16,12 +16,12 @@
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYWQxMmMzMWY1N2VlYTgzMjBhYzA1MjFjZjNiZGUxMmQ3ZmMwNSZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="350">
 
 
-- Expertise in creating CICD pipelines using Jenkins and Nexus repository to store build artifacts, incorporating operational requirements to optimize performance. 
-- Expertise in SonarQube for checking the code quality, debugging, and maintaining compliance with coding standards. 
-- Expertise in Server configuration tools like Ansible.
-- Expertise in source code management using SCM tools like GitHub and Bitbucket, ensuring thorough documentation of user stories.
-- Have experience in Dockized application using Docker compose.
-- Expertise in Atlassian tools like Jira, Bitbucket, and Confluence for ticketing systems and team connection.
-- Developing a Web Application using Python, Django, REST API, and PostgreSQL, with a strong focus on data transformation and flow.
+- Expertise in building CICD pipelines with GitLab CI, GitHub Actions, and Azure DevOps, integrated with SonarQube and Semgrep for automated security scanning and quality gates. 
+- Full-stack developer specialising in Python, Django, REST APIs, and PostgreSQL, delivering scalable web applications aligned with modern SDLC practices. 
+- Skilled in cloud architecture design on Microsoft Azure and AWS, deploying microservices and automation solutions with a focus on performance and scalability.
+- Experienced in Docker containerization and Kubernetes orchestration, building optimised images and managing production-grade clusters across multiple environments.
+- Proficient in infrastructure automation using Ansible Playbooks and configuration management tools to streamline deployments and reduce manual overhead.
+- Adept at version control and DevOps workflows using GitHub, GitLab, and Bitbucket, with Jira and Confluence for agile collaboration and documentation.
+- Certified Azure DevOps Engineer Expert (AZ-400) and Azure Developer (AZ-204) with proven expertise in implementing secure, compliant development practices.
 
 
